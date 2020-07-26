@@ -1,0 +1,19 @@
+* For general analysis *
+
+1) reasonable binning to data
+2) survival P for each variable &  bin
+3) graphs ! plotly?
+
+* spectral *
+
+1) "distance measurements" for each variable based in survival P changes per bins.
+2) affinity matrix
+3) run sklearn clustering
+4) evaluate -> repeat 1-3 until good enough
+
+* Decision Tree *
+
+1) study scikit-learn how to do it
+
+* Neural Network *
+1)
